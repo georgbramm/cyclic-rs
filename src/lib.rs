@@ -1,6 +1,4 @@
 #![allow(incomplete_features)]
-#![feature(const_generics)]
-#![feature(const_fn)]
 
 //! Simple library for generic cyclic groups, rings of integers, and prime
 //! fields. Rather than providing single operations like modular exponentiation
